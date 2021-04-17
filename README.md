@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **networking as a new dev in the community.**
 
-- 👨‍💻 All of my projects are available at [https://aniledev.github.io/dev-portfolio/](https://aniledev.github.io/dev-portfolio/)
+- 👨‍💻 All of my projects are available [here](https://aniledev.github.io/dev-portfolio/)
 
 - 💬 Ask me about **the ease of the PERN stack.**
 
 - 📫 How to reach me **elinamcgill@gmail.com.**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bxScP6d6Olv4QE5icvVSBI9L2EXfiZyZ2j2SDJhkoes/edit?usp=sharing](https://docs.google.com/document/d/1bxScP6d6Olv4QE5icvVSBI9L2EXfiZyZ2j2SDJhkoes/edit?usp=sharing)
+- 📄 Check out [my resume of experiences](https://docs.google.com/document/d/1bxScP6d6Olv4QE5icvVSBI9L2EXfiZyZ2j2SDJhkoes/edit?usp=sharing)
 
 - ⚡ Fun fact **Hiatus Kaiyote is my favorite band at the moment.**
 
