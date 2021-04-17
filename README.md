@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **the ease of the PERN stack.**
 
-- 📫 The best way to reach me is by [email](elinamcgill@gmail.com)
+- 📫 The best way to reach me is by email: **elinamcgill@gmail.com**
 
 - 📄 Check out [my resume of experiences](https://docs.google.com/document/d/1bxScP6d6Olv4QE5icvVSBI9L2EXfiZyZ2j2SDJhkoes/edit?usp=sharing)
 
