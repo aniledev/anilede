@@ -1,8 +1,3 @@
-# aniledev
-
-## Stats
-[![Elina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniledev&hide=stars&count_private=true&show_icons=true)](https://github.com/aniledev/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Elina (they/them).</h1>
 <h3 align="center">A passionate full-stack developer by day and a genre-bending music head by night.</h3>
 
