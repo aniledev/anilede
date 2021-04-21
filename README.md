@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elina (they/them).</h1>
 <h3 align="center">A passionate full-stack developer by day and a genre-bending music head by night.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniledev&label=Profile%20views&color=0e75b6&style=flat" alt="aniledev" /> </p>
 
 ## About Me
 - 🔭 I’m currently working on **mastering data structures and complex algorithms.**
