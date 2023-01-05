@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Elina (they/them).</h1>
-<h3 align="center">A passionate full-stack developer by day and a genre-bending music head by night.</h3>
+<h3 align="center">A passionate front-end engineer by day and a genre-bending music head by night.</h3>
 
 
 ## About Me
-- 🔭 I’m currently working on **mastering data structures and complex algorithms.**
+- 🔭 I’m currently doing a deep dive of new technoligies like **machine learning and artificial intelligence.**
 
-- 🌱 I’m currently learning **the fundamentals of Angular.**
+- 🌱 I’m currently learning **the core principles of React's fibre architecture.**
 
-- 🤝 I’m looking for help with **networking as a new dev in the community.**
+- 🤝 I’m looking for help with **furthering my career as a developer and leaning into DevOps.**
 
-- 👨‍💻 All of my projects are available [here](https://aniledev.github.io/dev-portfolio/)
-
-- 💬 Ask me about **the ease of the PERN stack.**
+- 💬 If you really want to get the conversation started, ask me about **why TypeScript is the future of OOP,** **my weightlifting goals for the new year,** and **what I'm currenty listening to**.
 
 - 📫 The best way to reach me is by email: **elinamcgill@gmail.com**
 
-- 📄 Check out [my resume of experiences](https://docs.google.com/document/d/1bxScP6d6Olv4QE5icvVSBI9L2EXfiZyZ2j2SDJhkoes/edit?usp=sharing)
+- 📄 Check out [my resume of experiences](https://drive.google.com/file/d/1pMIxZVNaSL70uevH9rJcpURSYmMi3VD4/view?usp=sharing)
 
-- ⚡ Fun fact **Hiatus Kaiyote is my favorite band at the moment.**
+- ⚡ Fun fact: according to my 2022 Spotify Wrapped **Zoe's Shanghai** replaced **Hiatus Kaiyote** as my favorite band.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
