@@ -3,13 +3,15 @@
 
 
 ## About Me
-- 🔭 I’m currently doing a deep dive of new technoligies like **machine learning and artificial intelligence.**
+- 🤖 I’m currently doing a deep dive of new technoligies like **machine learning and artificial intelligence.**
 
 - 🌱 I’m currently learning **the core principles of React's fibre architecture.**
 
 - 🤝 I’m looking for help with **furthering my career as a developer and leaning into DevOps.**
 
 - 💬 If you really want to get the conversation started, ask me about **why TypeScript is the future of OOP,** **my weightlifting goals for the new year,** and **what I'm currenty listening to**.
+
+- 🤓 Here's a cool [little UI project](https://aniledev.github.io/react-searchable-people-directory/) I built this year. Feel free to check it out.
 
 - 📫 The best way to reach me is by email: **elinamcgill@gmail.com**
 
