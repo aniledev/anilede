@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elina (he/theyh1>
+<h1 align="center">Hi 👋, I'm E (they/he)>
 <h3 align="center">A passionate front-end engineer by day and a genre-bending music head by night.</h3>
 
 
